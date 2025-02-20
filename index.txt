@@ -1,1 +1,1 @@
-this my first git text
+this my second version of git 

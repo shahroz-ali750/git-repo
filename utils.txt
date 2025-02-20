@@ -1,1 +1,1 @@
-utility text versions
+utility functions of git version 2
